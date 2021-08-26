@@ -1,16 +1,15 @@
 # nhl_league_2019_eric
 
-A new Flutter project.
+NHL League Tornament
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+- Picked 16 teams from 2019 NHL Play off league.
+- Used shuffle team matching. 
+- Winner decided by scoring 4 ( Used random number comparision and ignored same number, so no draw game, it goes 4 to 7 matches)
+- Used Fade in/out animation
+- When start, get all the results then display by button( wasted several hours to get results by button click (set state)...at the begining, so stopped and reconstructed from the scratch .. main reason this took long. ;;)
+- Not ugly interface.( doesn't mean preety..)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
